@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/robo-contacts/static/css/main.2905a619.chunk.css",
-    "main.js": "/robo-contacts/static/js/main.0b695789.chunk.js",
-    "main.js.map": "/robo-contacts/static/js/main.0b695789.chunk.js.map",
+    "main.js": "/robo-contacts/static/js/main.12d7c0af.chunk.js",
+    "main.js.map": "/robo-contacts/static/js/main.12d7c0af.chunk.js.map",
     "runtime-main.js": "/robo-contacts/static/js/runtime-main.3deae2d2.js",
     "runtime-main.js.map": "/robo-contacts/static/js/runtime-main.3deae2d2.js.map",
     "static/css/2.3c03f26f.chunk.css": "/robo-contacts/static/css/2.3c03f26f.chunk.css",
     "static/js/2.502612db.chunk.js": "/robo-contacts/static/js/2.502612db.chunk.js",
     "static/js/2.502612db.chunk.js.map": "/robo-contacts/static/js/2.502612db.chunk.js.map",
     "index.html": "/robo-contacts/index.html",
-    "precache-manifest.77aa85b19de66c77150bd0a6ae39f594.js": "/robo-contacts/precache-manifest.77aa85b19de66c77150bd0a6ae39f594.js",
+    "precache-manifest.79a819514bba5f29278081288b1660bc.js": "/robo-contacts/precache-manifest.79a819514bba5f29278081288b1660bc.js",
     "service-worker.js": "/robo-contacts/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/robo-contacts/static/css/2.3c03f26f.chunk.css.map",
     "static/css/main.2905a619.chunk.css.map": "/robo-contacts/static/css/main.2905a619.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.502612db.chunk.js",
     "static/css/main.2905a619.chunk.css",
-    "static/js/main.0b695789.chunk.js"
+    "static/js/main.12d7c0af.chunk.js"
   ]
 }
